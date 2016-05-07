@@ -1,0 +1,1 @@
+As per Pluralsight Course "TypeScript In-depth"
